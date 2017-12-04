@@ -60,6 +60,7 @@ till you come to the end; then stop."
         
         var  welcome = "hello world"
         print(welcome.append("nimei"))
+        print("hello")
         
         // Do any additional setup after loading the view, typically from a nib.
     }
